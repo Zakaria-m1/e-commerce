@@ -2,7 +2,7 @@
 
 A fully responsive, feature-rich e-commerce product page built with React, TypeScript, and TailwindCSS. This project demonstrates modern web development practices and UI/UX patterns commonly used in production e-commerce applications.
 
-![Project Live Demo](https://e-commerce-iota-lime.vercel.app/)
+[Project Live Demo](https://e-commerce-iota-lime.vercel.app/)
 
 ## Features
 
