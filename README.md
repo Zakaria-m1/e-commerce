@@ -2,7 +2,7 @@
 
 A fully responsive, feature-rich e-commerce product page built with React, TypeScript, and TailwindCSS. This project demonstrates modern web development practices and UI/UX patterns commonly used in production e-commerce applications.
 
-![Project Screenshot](screenshot.png)
+![Project Live Demo](https://e-commerce-iota-lime.vercel.app/)
 
 ## Features
 
@@ -61,55 +61,6 @@ A fully responsive, feature-rich e-commerce product page built with React, TypeS
 - Node.js 16.x or later
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-product-page.git
-   cd ecommerce-product-page
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. Start the mock API server:
-
-   ```bash
-   npm run server
-   # or
-   yarn server
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-5. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-### Production Deployment
-
-1. Build the project:
-
-   ```bash
-   npm run build
-   # or
-   yarn build
-   ```
-
-2. Deploy to Vercel:
-   ```bash
-   vercel
-   ```
 
 ## Project Structure
 
